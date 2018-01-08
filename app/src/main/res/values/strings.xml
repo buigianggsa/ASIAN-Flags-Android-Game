@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlagQuizGame</string>
+    <string name="quiz_title">Quiz - Country Flags</string>
+    <string-array name="regionsList">
+        <item>Africa</item>
+        <item>Asia</item>
+        <item>Europe</item>
+        <item>North_America</item>
+        <item>Oceania</item>
+        <item>South_America</item>
+    </string-array>
+    <string-array name="guessesList">
+        <item>3</item>
+        <item>6</item>
+        <item>9</item>
+    </string-array>
+    <string name="more_regions_title">More Regions Required</string>
+    <string name="regions">Select Regions</string>
+    <string name="choices">Select Number of Choices</string>
+</resources>
